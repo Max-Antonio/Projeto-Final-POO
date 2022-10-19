@@ -19,5 +19,7 @@ se apresentam em um Feed separado por tipos de cozinha e preços, para facilitar
 
 ### Participantes
 [Max Antônio](https://github.com/Max-Antonio)
+
 [Marcelo Mota](https://github.com/marcelomotadev)
+
 [Anderson Gabriel](https://github.com/AndersonL021)
